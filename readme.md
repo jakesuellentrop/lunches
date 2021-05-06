@@ -9,3 +9,6 @@
  - 
  - 
  - 
+ - George's French Bistro
+ - Le Monde
+ - The Monarch
