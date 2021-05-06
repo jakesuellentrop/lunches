@@ -5,4 +5,6 @@
  - Wichita Fish Company
  - La Galette
  - Schlotzky's
- - Pollo Express - George's French Bistro - George\'s French Bistro - Georges French Bistro
+ - Pollo Express
+ - George's French Bistro
+ - The Monarch
