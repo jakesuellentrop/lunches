@@ -6,9 +6,6 @@
  - La Galette
  - Schlotzky's
  - Pollo Express
- - 
- - 
- - 
  - George's French Bistro
  - Le Monde
  - The Monarch
