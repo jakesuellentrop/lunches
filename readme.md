@@ -7,4 +7,8 @@
  - Schlotzky's
  - Pollo Express
  - George's French Bistro
- - The Monarch
+ - George's French Bistro
+ - George's French Bistro
+ - George's French Bistro
+ - George's French Bistro
+ - George's French Bistro
