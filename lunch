@@ -1,0 +1,22 @@
+#! /usr/local/bin/php
+
+<?php
+
+$restaurants = array_splice($argv, 1);
+$restaurantsString = str_replace("'", "'\''", implode(", ", $restaurants));
+
+$lunchDir = "/Users/jake/dev/lunches/";
+$filepath = $lunchDir . "readme.md";
+
+$handle = fopen($filepath, "a+");
+
+foreach ($restaurants as $value) {
+	fwrite($handle, " - $value\n");
+}
+
+fclose($handle);
+
+chdir($lunchDir);
+system("git add readme.md");
+system("git commit -m 'adds $restaurantsString'");
+system("git push");
