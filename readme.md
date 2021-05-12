@@ -1,5 +1,7 @@
 # Lifeboat Lunches
 
+_A repo and CLI script for tracking places we need to try for lunch_
+
 ## Restaurants to try...
  - Kiko's Carne Asada Specialists
  - Wichita Fish Company
