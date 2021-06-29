@@ -9,5 +9,5 @@ _A repo and CLI script for tracking places we need to try for lunch_
 - [ ] Schlotzky's
 - [ ] George's French Bistro
 - [ ] Le Monde
-- [ ] The Monarch
+- [x] The Monarch
 - [ ] The Anchor
